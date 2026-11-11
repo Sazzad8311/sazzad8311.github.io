@@ -1,10 +1,10 @@
 # Portfolio sources
 
-Content assembled on 15 September 2026. Current education and employment dates follow the CV supplied for this project. Publication titles and author lists follow that CV. Ongoing project descriptions also use the owner's research and teaching updates shared while preparing this portfolio.
+Content assembled on 15 September 2026 and updated on 11 November 2026 from the revised CV. Current education and employment dates follow the CV supplied for this project. Publication titles and author lists follow that CV. Ongoing project descriptions also use the owner's research and teaching updates shared while preparing this portfolio.
 
 ## CV
 
-`assets/Resume_Mohammed_Sazzad_Yousuf_Sourab.pdf` is an unchanged copy of the supplied CV. It is the source for the M.S. program and May 2027 completion date, B.Sc. degree and GPA, employment dates, publications, poster titles, memberships, and selected awards.
+`assets/Resume_Mohammed_Sazzad_Yousuf_Sourab.pdf` is the CV as revised on 11 November 2026. It is the source for the M.S. program and May 2027 completion date, B.Sc. degree and GPA, employment dates, publications, poster titles, memberships, and selected awards.
 
 ## Professional profiles
 
@@ -30,13 +30,11 @@ These posts inform the teaching section. No likes, follower counts, or relative 
 - [Pneumonia paper](https://doi.org/10.1016/j.sintl.2022.100167), with bibliographic metadata also located in [Adelaide's research repository](https://digital.library.adelaide.edu.au/items/9e5827c7-c562-4210-9b4a-cf1e4346d0bc).
 - [COVID-19 paper](https://doi.org/10.1109/IPRECON52453.2021.9640744), DOI supplied in the CV.
 
-The QCE paper, SC26 acceptance, TACCSTER poster, and ICECE review status rely on the owner's supplied CV and research updates. No public paper URL was invented for these items.
+- [QCE paper](https://doi.org/10.1109/QCE68830.2026.10127), DOI supplied by the owner. Title and author order follow the owner's Google Scholar profile.
+- [TACCSTER 2026 poster](https://doi.org/10.26153/tsw/65039), DOI supplied by the owner.
+
+The two IEEE CSDE papers and the SC26 poster rely on the owner's CV and Google Scholar profile. No public URL was invented for these items.
 
 ## Portrait
 
-`assets/portrait.jpg` is the 400 × 400 pixel profile portrait served with the owner's public LinkedIn post. The image's source-page alt text identifies Mohammed Sazzad Yousuf Sourab. The photo shows him wearing a blue suit outdoors.
-
-- [Source page](https://www.linkedin.com/posts/mohammed-sazzad-yousuf-sourab-997622135_successfully-completed-the-training-as-an-activity-7085125933661097984-FOSW)
-- [Original image](https://media.licdn.com/dms/image/v2/D5603AQEx8ClhWJ_i6A/profile-displayphoto-scale_400_400/B56Z5IfstOG0Ag-/0/1779332731151?e=2147483647&v=beta&t=Medt594gaKsjz_TU5SAk20HNxjwed-HkOiPOKsgxZVk)
-
-The image is included locally for the owner's personal portfolio. No open license or permission for unrelated reuse is asserted. The photograph was not generated or retouched.
+`assets/portrait.jpg` is a studio portrait supplied by the owner on 11 November 2026, resized to 800 × 800 pixels. It shows him in a dark suit and navy tie against a white background. The photograph was not generated or retouched.

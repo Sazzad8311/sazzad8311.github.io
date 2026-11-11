@@ -45,8 +45,8 @@ The page's content is present in the HTML. It does not depend on a JavaScript fe
 ## Content notes
 
 - The M.S. completion date is **May 2027**, following the CV supplied for this website. The date appears in the education section.
-- The IEEE QCE26 paper is labeled **accepted**. SC26 is labeled **poster accepted**. TACCSTER is labeled **upcoming**. The ICECE manuscript is **under review**. Update these labels as their status changes.
-- The downloadable CV is the original supplied file. Updating the webpage does not update the PDF automatically.
+- The IEEE QCE26 paper is labeled **published** and links to its DOI. The two IEEE CSDE papers are listed as conference papers. The TACCSTER poster is labeled **presented** and links to its DOI. SC26 is labeled **poster accepted**. Update these labels as their status changes.
+- The downloadable CV is the version updated on 11 November 2026. Updating the webpage does not update the PDF automatically.
 - Source links and attribution are recorded in `SOURCES.md`.
 - The contact link opens the visitor's email application. There is no contact form, account system, or analytics service.
 
@@ -57,7 +57,7 @@ The page's content is present in the HTML. It does not depend on a JavaScript fe
 | `index.html` | Complete portfolio content and metadata |
 | `styles.css` | Responsive layout, colors, typography, and print styling |
 | `script.js` | Mobile menu, active navigation, and copyright year |
-| `assets/portrait.jpg` | Portrait from the owner's public LinkedIn profile |
+| `assets/portrait.jpg` | Portrait supplied by the owner |
 | `assets/Resume_Mohammed_Sazzad_Yousuf_Sourab.pdf` | Downloadable CV |
 | `404.html` | Missing-page message |
 | `.nojekyll` | Tells GitHub Pages to serve the static files directly |
