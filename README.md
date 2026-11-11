@@ -1,6 +1,6 @@
 # Sazzad Yousuf Sourab's portfolio
 
-A static research portfolio for Mohammed Sazzad Yousuf Sourab, Graduate Research Assistant at Lamar University. It includes publications, current research, selected projects, teaching experience, and professional links.
+A static academic homepage for Mohammed Sazzad Yousuf Sourab, Graduate Research Assistant at Lamar University. A profile column holds the portrait, affiliation, and contact links. The main column holds the biography, news, research, publications, experience, teaching, software, and honors.
 
 The site uses HTML, CSS, and a small JavaScript file. There is no installation or build step. The portrait, styling, and CV are included locally.
 
@@ -33,12 +33,14 @@ Then visit `http://localhost:8000`.
 | What to change | Where to edit |
 | --- | --- |
 | Name, biography, dates, email, or profile URLs | `index.html` |
-| Research descriptions and publication status | The labeled research and publications sections in `index.html` |
-| LinkedIn post links and teaching experience | The experience section in `index.html` |
+| News items | The news section in `index.html`. Add the newest item at the top |
+| Research descriptions | The research section in `index.html` |
+| Publications | The publications section in `index.html`. Add a new entry at the top of its group and give it the next label (J2, C6, P3) |
+| LinkedIn post links and teaching experience | The teaching and experience sections in `index.html` |
 | Colors and fonts | The `:root` variables at the top of `styles.css` |
 | Portrait | Replace `assets/portrait.jpg` and update its alt text if needed |
 | CV | Replace `assets/Resume_Mohammed_Sazzad_Yousuf_Sourab.pdf` using the same filename |
-| Mobile navigation behavior | `script.js` |
+| Active-section highlight in the navigation bar | `script.js` |
 
 The page's content is present in the HTML. It does not depend on a JavaScript fetch, a framework, or an external font service. Professional profile and publication links open the relevant external websites.
 
@@ -55,8 +57,8 @@ The page's content is present in the HTML. It does not depend on a JavaScript fe
 | File | Purpose |
 | --- | --- |
 | `index.html` | Complete portfolio content and metadata |
-| `styles.css` | Responsive layout, colors, typography, and print styling |
-| `script.js` | Mobile menu, active navigation, and copyright year |
+| `styles.css` | Two-column layout, colors, typography, and print styling |
+| `script.js` | Active navigation and copyright year |
 | `assets/portrait.jpg` | Portrait supplied by the owner |
 | `assets/Resume_Mohammed_Sazzad_Yousuf_Sourab.pdf` | Downloadable CV |
 | `404.html` | Missing-page message |
@@ -65,6 +67,4 @@ The page's content is present in the HTML. It does not depend on a JavaScript fe
 
 ## Validation
 
-The delivered package was checked for missing local assets, broken internal anchors, duplicate element IDs, and JavaScript syntax. No browser-based layout or interaction test was performed in this environment.
-
-This package is ready for your upload. It has not been published to GitHub.
+The redesigned page was checked for broken internal anchors, duplicate element IDs, console errors, and horizontal overflow, and viewed in Chrome at 1280 and 390 pixel widths. External links were not opened.
